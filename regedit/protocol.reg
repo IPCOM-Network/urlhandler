@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\ipcom]
+@="URL:IPCOM Protocol"
+"URL Protocol"=""
+
+
+[HKEY_CLASSES_ROOT\ipcom\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\ipcom\shell\open]
+
+[HKEY_CLASSES_ROOT\ipcom\shell\open\command]
+@="c:\\calc.exe %1"

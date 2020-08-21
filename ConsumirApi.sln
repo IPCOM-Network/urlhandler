@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumirApi", "ConsumirApi\ConsumirApi.csproj", "{5A414729-E789-4750-B4B0-9C650208AD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A414729-E789-4750-B4B0-9C650208AD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A414729-E789-4750-B4B0-9C650208AD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A414729-E789-4750-B4B0-9C650208AD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A414729-E789-4750-B4B0-9C650208AD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871196B3-ACAD-45CF-9A8D-DC0532539ECA}
+	EndGlobalSection
+EndGlobal
